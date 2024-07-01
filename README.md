@@ -1,6 +1,6 @@
 # Sumit Srivastav's Portfolio
 
-Welcome to my personal portfolio! This is where I showcase my skills, projects, and experiences as a web developer.
+Welcome to my portfolio! This is where I showcase my skills, projects, and experiences as a web developer.
 
 ## Table of Contents
 - [About Me](#about-me)
@@ -14,7 +14,7 @@ Hi there! I'm Sumit Srivastav, a passionate web developer with a strong backgrou
 ## Projects
 1. **Inner-Circle CRM**: A comprehensive Customer Relationship Management (CRM) system designed to streamline customer interactions and enhance business productivity.
 2. **Courier Management System**: A web application focused on recording items for delivery, calculating bills, managing payment dues, and sending invoices.
-3. **Invenio Inventory & Sales Management**: A system to efficiently manage inventory and sales operations for businesses.
+3. **Invenio Inventory & Sales Management**: A system to efficiently manage business inventory and sales operations.
 4. **Undefeatable Tic Tac Toe**: A JavaScript-based Tic Tac Toe game with an unbeatable AI opponent leveraging the Minimax algorithm.
 
 ## Skills
@@ -24,4 +24,5 @@ Hi there! I'm Sumit Srivastav, a passionate web developer with a strong backgrou
 - **Tools & Technologies**: Git, GitHub, Docker, RESTful APIs, Agile/Scrum methodology
 - **Design Principles**: Google Material Design, glass morphism, CSS/JS animations
 
-Visit my portfolio at sumit7739.github.io/portfolio
+[Visit my portfolio](https://sumit7739.github.io/portfolio/index.html)
+
