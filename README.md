@@ -24,5 +24,5 @@ Hi there! I'm Sumit Srivastav, a passionate web developer with a strong backgrou
 - **Tools & Technologies**: Git, GitHub, Docker, RESTful APIs, Agile/Scrum methodology
 - **Design Principles**: Google Material Design, glass morphism, CSS/JS animations
 
-[Visit my portfolio](https://sumit7739.github.io/portfolio/index.html)
+[Visit my portfolio](https://sumit7739.github.io/Portfolio-main/)
 
